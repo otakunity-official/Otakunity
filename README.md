@@ -1,4 +1,4 @@
-# Otakunity-Issues
+# Otakunity
 
 ### Creating an Issue
 
